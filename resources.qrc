@@ -1,0 +1,60 @@
+<RCC>
+  <qresource prefix="imgs">
+    <file>images and logos/English_get.svg</file>
+    <file>images and logos/GitHub_Logo.png</file>
+    <file>images and logos/GitHub_Logo_White.png</file>
+  </qresource>
+  <qresource prefix="iccons">
+    <file>icons/appointment.png</file>
+    <file>icons/arrow-down-circle.svg</file>
+    <file>icons/clock.png</file>
+    <file>icons/icons8-add-30.png</file>
+    <file>icons/icons8-check-24.png</file>
+    <file>icons/icons8-delete-30.png</file>
+    <file>icons/icons8-edit-24.png</file>
+    <file>icons/icons8-refresh-30.png</file>
+    <file>icons/icons8-search-24.png</file>
+    <file>icons/medical-history-doctor-svgrepo-com.svg</file>
+    <file>icons/medical-history-svgrepo-com.svg</file>
+    <file>icons/patient.png</file>
+    <file>icons/psychiatristjpg.jpg</file>
+    <file>icons/search.png</file>
+    <file>icons/statistics.png</file>
+    <file>icons/statistics-graph-svgrepo-com.svg</file>
+    <file>icons/support.svg</file>
+    <file>icons/arrow-down-circle(1).svg</file>
+  </qresource>
+  <qresource prefix="icons">
+    <file>icons/clock.png</file>
+    <file>icons/icons8-add-30.png</file>
+    <file>icons/icons8-check-24.png</file>
+    <file>icons/icons8-delete-30.png</file>
+    <file>icons/icons8-edit-24.png</file>
+    <file>icons/icons8-refresh-30.png</file>
+    <file>icons/icons8-search-24.png</file>
+    <file>icons/medical-history-doctor-svgrepo-com.svg</file>
+    <file>icons/medical-history-svgrepo-com.svg</file>
+    <file>icons/statistics-graph-svgrepo-com.svg</file>
+    <file>icons/support.svg</file>
+  </qresource>
+  <qresource prefix="fonts">
+    <file>fonts/Comfortaa-Bold.ttf</file>
+    <file>fonts/Comfortaa-Light.ttf</file>
+    <file>fonts/Comfortaa-Regular.ttf</file>
+    <file>fonts/Roboto-Black.ttf</file>
+    <file>fonts/Roboto-BlackItalic.ttf</file>
+    <file>fonts/Roboto-Bold.ttf</file>
+    <file>fonts/Roboto-BoldItalic.ttf</file>
+    <file>fonts/Roboto-Italic.ttf</file>
+    <file>fonts/Roboto-Light.ttf</file>
+    <file>fonts/Roboto-LightItalic.ttf</file>
+    <file>fonts/Roboto-Medium.ttf</file>
+    <file>fonts/Roboto-MediumItalic.ttf</file>
+    <file>fonts/Roboto-Regular.ttf</file>
+    <file>fonts/Roboto-Thin.ttf</file>
+    <file>fonts/Roboto-ThinItalic.ttf</file>
+    <file>fonts/Comfortaa-Bold.ttf</file>
+    <file>fonts/Comfortaa-Light.ttf</file>
+    <file>fonts/Comfortaa-Regular.ttf</file>
+  </qresource>
+</RCC>

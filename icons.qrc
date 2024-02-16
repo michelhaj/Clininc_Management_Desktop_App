@@ -1,0 +1,17 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+	<qresource>
+        <file>icons/appointment.png</file>
+        <file>icons/clock.png</file>
+        <file>icons/icons8-add-30.png</file>
+        <file>icons/icons8-check-24.png</file>
+        <file>icons/icons8-delete-30.png</file>
+        <file>icons/icons8-edit-24.png</file>
+        <file>icons/icons8-refresh-30.png</file>
+        <file>icons/icons8-search-24.png</file>
+        <file>icons/patient.png</file>
+        <file>icons/search.png</file>
+        <file>icons/statistics.png</file>
+        <file>icons/support.svg</file>
+	</qresource>
+</RCC>
